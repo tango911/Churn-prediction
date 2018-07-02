@@ -25,7 +25,7 @@ Intl Charge
 CustServ Calls    
 Churn?
 
-##Content
+## Content
 1. Data Exploration
 2. Data Preprocessing
 3. Training Model
